@@ -19,9 +19,9 @@ You can see a deploy [here]().
 - [x] Index Page
 - [x] Login Page
 - [x] Login System
-- [] Communites Page
-- [] Users Page
-- [] Index Menu
+- [ ] Communites Page
+- [ ] Users Page
+- [ ] Index Menu
 
 ## 🚀 Getting Started
 
