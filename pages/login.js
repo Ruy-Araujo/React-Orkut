@@ -18,7 +18,7 @@ export default function LoginScreen() {
     >
       <div className="loginScreen">
         <section className="logoArea">
-          <img src="https://raw.githubusercontent.com/Ruy-Araujo/React-Alurakut/main/images/Logo_ORKUT.png" />
+          <img src="src/images/Logo_ORKUT.png" />
 
           <p>
             <strong>Conecte-se</strong> aos seus amigos e familiares usando
