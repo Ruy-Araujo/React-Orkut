@@ -24,7 +24,7 @@ export function AlurakutMenu({ githubUser }) {
   return (
     <AlurakutMenu.Wrapper isMenuOpen={isMenuOpen}>
       <div className="container">
-        <AlurakutMenu.Logo src={'src/images/Logo_ORKUT.png'} />
+        <AlurakutMenu.Logo src={'https://raw.githubusercontent.com/Ruy-Araujo/React-Orkut/master/src/images/Logo_ORKUT.png'} />
 
         <nav style={{ flex: 1 }}>
           {[{ name: 'Inicio', slug: '/'}, {name: 'Amigos', slug: '/amigos'}, {name: 'Comunidades', slug: '/comunidades'}].map((menuItem) => (
