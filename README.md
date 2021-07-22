@@ -12,7 +12,7 @@ This project was taught by the Alura team in front-end challenge week.
 
 Attention: this project created only to apply my studies.
 
-You can see a deploy [here]().
+You can see a deploy [here](http://react-orkut.vercel.app/).
 
 ## Features
 
