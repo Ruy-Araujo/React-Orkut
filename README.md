@@ -77,14 +77,22 @@ The application should be up and running at [http://localhost:3000](http://local
 ## 📷 Screen Shots
 
 #### Index Page
-![indexPage](media/screenShots/indexPage.gif)
+![index Page](media/screenShots/indexPage.gif)
 
 #### Login Page
-![loginPage](media/screenShots/loginPage.png)
+![login Page](media/screenShots/loginPage.png)
 
+#### Mobile Login Page
+![mobile Login Page](media/screenShots/mobileLoginPage.png)
+
+#### Mobile Index Page
+![mobile index page](media/screenShots/mobileIndex.png)
+
+#### Mobile Menu
+![mobile menu](media/screenShots/mobileProfileMenu.png)
 
 ## 📄 License
 
-This project is under MIT-license - see file [LICENSE.md](https://github.com/usuario/projeto/licenca) for details.
+This project is under MIT-license - see file [LICENSE.md](https://github.com/Ruy-Araujo/React-Orkut/blob/master/LICENSE) for details.
 
 
