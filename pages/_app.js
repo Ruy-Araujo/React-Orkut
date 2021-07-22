@@ -1,5 +1,8 @@
 import { createGlobalStyle, ThemeProvider } from 'styled-components'
 import { AlurakutStyles } from "../src/lib/AlurakutCommons"
+import { useRouter } from "next/router";
+
+
 
 const GlobalStyle = createGlobalStyle`
   /* Reset */  
@@ -40,10 +43,12 @@ const theme = {
 }
 
 export default function App({ Component, pageProps }) {
+  const router = useRouter();
   return (
     <>
       <GlobalStyle />
       <ThemeProvider theme={theme}>
+      <title>Orkut  {router.pathname.replace('/','')}</title>
         <Component {...pageProps} />
       </ThemeProvider>
     </>
